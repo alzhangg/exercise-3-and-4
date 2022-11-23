@@ -1,0 +1,55 @@
+			body {
+				font-family: arial;
+				text-align: center;
+  				padding:25px;
+  			}
+
+			#divi1 {
+				border: 2px outset #bdbdbd;
+				background-color: #ffffff;
+			}
+
+			#product {
+				font-family: arial;
+				margin-left: 20px;
+				margin-right: 20px;
+				font-family: arial;
+				font-size: 14;
+				text-align: center;
+			}
+
+			#price {
+				margin-top: 25px;
+				margin-bottom: 25px;
+				font-family: arial;
+				font-size: 14;
+				text-align: center;
+			}
+
+			.center {
+ 				margin: auto;
+  				width: 60%;
+  				border: 3px solid #73AD21;
+  				padding: 10px;
+			}
+
+			h4 {
+
+				text-align: center;
+				margin-top: 25px;
+				margin-bottom: 25px;
+			}
+
+			button {
+
+				border-radius: 6px;
+				border-color: #D66460;
+				outline: 2;
+				display: inline-block;
+				padding: 12px;
+				color: white;
+				background-color: #F0C3AE;
+				cursor: pointer;
+				width: 50%;
+				font-size: 18px;
+			}
